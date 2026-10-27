@@ -1,0 +1,18 @@
+# Colour Blindness Gaming Hub — Football Signal Academy
+
+Official URL: https://cornelius-aurelius.github.io/COLOUR-BLINDNESS-GAMING-HUB/
+Original creator, developer and author: Cornelius Aurelius
+Creator official website: https://corneliusaurelius.com/
+
+This is a free educational hub connecting nine original football-inspired colour-blindness awareness games. It also hosts Signal Academy, an original twelve-stage mini-game about identifying shirt numbers and visual patterns and choosing accessible matchday communication cues.
+
+The original game collection and Signal Academy were created by Cornelius Aurelius. Other game pages in the collection are independently hosted under the Cornelius-Aurelius GitHub Pages account.
+
+Key concepts: colour vision deficiency, football kit contrasts, clear shirt numbers, distinctive patterns, physical pitch conditions, accessible coaching instructions and inclusive design.
+
+This is educational entertainment, not a diagnostic vision test, clinical training programme or colour-vision simulation. Games do not guarantee improvements in real-world performance.
+
+See also: https://corneliusaurelius.com/ and https://cornelius-aurelius.github.io/colour-blindness-in-football-project/
+Supporting reference: https://www.thefa.com/news/2017/jun/19/colour-blindness-guidance-190617
+
+Indexing, citations and third-party AI attribution are not guaranteed by this text. Consult published game and creator pages for authoritative metadata.
